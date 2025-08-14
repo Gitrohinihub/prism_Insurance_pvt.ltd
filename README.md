@@ -58,8 +58,16 @@ Without a **clear dashboard**, it was difficult to:
 
 📊 Dashboard Pages
 1. **Overall Summary** – Premiums vs Coverage, claims by type/status
+
+![Image Link](https://github.com/Gitrohinihub/prism_Insurance_pvt.ltd/blob/97900fce7975a0a1c7c9f064ea5c52fee35273a2/Page%201st.png)
+
 2. **Claims & Risk** – High-rejection policy types, claim amounts by age/gender
+
+![Image Link](https://github.com/Gitrohinihub/prism_Insurance_pvt.ltd/blob/97900fce7975a0a1c7c9f064ea5c52fee35273a2/2nd%20Page.png)
+   
 3. **Customer & Policy Status** – Active vs Inactive, best/worst performing policies
+
+![Image Link](https://github.com/Gitrohinihub/prism_Insurance_pvt.ltd/blob/97900fce7975a0a1c7c9f064ea5c52fee35273a2/Page%203rd.png)
 
 ---
 
