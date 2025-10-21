@@ -69,7 +69,7 @@ Without a **clear dashboard**, it was difficult to:
 
 ![Image Link](https://github.com/Gitrohinihub/prism_Insurance_pvt.ltd/blob/97900fce7975a0a1c7c9f064ea5c52fee35273a2/Page%203rd.png)
 
-Powerbi app : (https://app.powerbi.com/links/DwU0IB2OjZ?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare&bookmarkGuid=b5e70bbe-9683-4fde-8683-355b26ebc35b)
+Project live link : [click](https://app.powerbi.com/links/DwU0IB2OjZ?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare&bookmarkGuid=b5e70bbe-9683-4fde-8683-355b26ebc35b)
 ---
 
 💼 Business Problem Solved
